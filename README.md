@@ -54,7 +54,7 @@ Add your credentials from Clarify in the same directory. For more information cl
 4. Go to http://localhost:8080/docs
 5. In the Neo4j Desktop run `match(n) return n`
 
-For now your database is empty. To add data, go to the arrows app and `export` the data as `Cypher` (click on the Create button and `Copy to clipboard`). Paste the connent to a cell in Neo4j Browser and run it. Run `match(n) return n` to see your graph.
+For now your database is empty. To add data, go to the arrows app and `export` the data as `Cypher` (click on the Create button and `Copy to clipboard`). Paste the content to a cell in Neo4j Browser and run it. Run `match(n) return n` to see your graph.
 
 # Note
 
